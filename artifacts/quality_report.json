@@ -1,0 +1,13 @@
+{
+ "raw_trips": 26366639,
+ "reasons": {
+  "1 pickup time outside the file period (bad timestamp)": 54,
+  "2 unknown pickup zone (264/265)": 42487,
+  "3 dropoff not after pickup": 328048,
+  "4 negative total amount (refund / dispute)": 146743,
+  "5 valid trip": 25849307
+ },
+ "valid_trips": 25849307,
+ "valid_zero_distance_trips_kept": 802277,
+ "valid_trips_over_100mi_kept": 1036
+}
