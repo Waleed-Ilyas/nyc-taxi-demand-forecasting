@@ -2,7 +2,7 @@
 
 Forecasts hourly taxi pickups for every NYC taxi zone over the next 24 hours so a fleet operator can position drivers before demand appears. Built on **25.8 million real trips**, aggregated with DuckDB SQL, modelled with LightGBM, delivered as an interactive Streamlit app with a zone-demand map.
 
-**Live demo:** _added after deployment_ · **Stack:** DuckDB, Python, LightGBM, MLflow, Streamlit + Plotly maps, GitHub Actions
+**Live demo:** [https://nyc-taxi-demand-forecasting-6wlrab3okjtliepewbxyk4.streamlit.app/](https://nyc-taxi-demand-forecasting-6wlrab3okjtliepewbxyk4.streamlit.app/) · **Stack:** DuckDB, Python, LightGBM, MLflow, Streamlit + Plotly maps, GitHub Actions
 
 ![Zone demand map](reports/figures/app_map.png)
 
